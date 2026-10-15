@@ -2,7 +2,7 @@
 
 一个轻量的 Windows 桌面悬浮清单。流动的水球始终置顶，显示当前任务数量；鼠标移上去展开任务，移开后收起，适合随手记录和清理待办。
 
-**[下载 Windows 版](https://github.com/YxanWang/task-floating-ball/releases/latest)**：在最新发布中下载 `任务悬浮球.exe`，放入有写入权限的文件夹，双击即可使用。
+**[下载 Windows 版](https://github.com/YxanWang/task-floating-ball/releases/latest)**：在最新发布中下载 `task-floating-ball.exe`，放入有写入权限的文件夹，双击即可使用。
 
 ## 为什么做这个小工具
 
